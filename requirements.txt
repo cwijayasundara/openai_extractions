@@ -1,0 +1,8 @@
+python-dotenv
+langchain_community
+unstructured
+langchain-openai==0.1.21rc2
+llama-index-llms-openai
+llama-index-program-openai
+newspaper3k
+lxml[html_clean]
